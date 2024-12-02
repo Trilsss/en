@@ -1,8 +1,5 @@
-<audio controls>
-  <source src="https://github.com/Trilsss/en/raw/main/voice.mp3" type="audio/mpeg">
-</audio>
-
 ```
+
 Global Warming
 
 ⭐️ Introduction  
@@ -35,4 +32,5 @@ Climate change has caused widespread negative impacts on life, economy, and soci
 
 ⭐️ Conclusion  
 Together, we must protect our home planet, ensuring it remains green, clean, and beautiful—not just for our generation but for future generations as well.
+
 ```
