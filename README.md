@@ -1,4 +1,4 @@
-<audio controls autoplay>
+<audio controls>
   <source src="https://github.com/Trilsss/en/raw/main/voice.mp3" type="audio/mpeg">
 </audio>
 
